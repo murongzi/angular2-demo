@@ -22,3 +22,6 @@ learn angular2 step by step
 TypeScript:微软开发, javascript超集,提供最新标准或者提案的代码API,可转换成ES5,ES3,是一个转换器(编译器的一种).开源
 
 Rxjs:微软开发,响应式变成[名字为英文缩写], promise++的概念. 功能包括不限于,事件绑定,ajax,数据操作,promise等,angular2中取用了该功能库中的部分脚本的使用
+
+#####外链资料
+[https://leftstick.github.io/tech/2016/04/09/angular2-01-env](https://leftstick.github.io/tech/2016/04/09/angular2-01-env)
