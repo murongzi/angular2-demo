@@ -2,3 +2,5 @@
 .DS_Store
 *.log
 *.iml
+/app/**/*.js
+/app/**/*.map
