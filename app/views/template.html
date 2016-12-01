@@ -1,0 +1,5 @@
+<ul>
+    <li><button (click)="addItem()">添加</button></li>
+    <li style="border:1px solid red;" *ngFor="let item of items;let i = index; trackBy: trackByFn;" (click)="itemClick(i)">
+        编号:{{item.id}} -- 姓名：{{item.name}} <a href="javascript:;" (click)="removeItem(i)">删除</a></li>
+</ul>
